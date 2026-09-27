@@ -1,0 +1,15 @@
+# Data: downloaded by get_data.py, not redistributed
+*.tab
+*.docx
+data_dictionary.txt
+p2_features.csv
+who_growth/
+
+# Environments & editors
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+p1b_overview.png
