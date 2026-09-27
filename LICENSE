@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-This licence covers the code and notebook text in this repository only.
-The data used by the notebooks is NOT included and keeps its own licence:
-- 2024 Pediatric Sepsis Challenge synthetic data: CC BY-NC-SA 4.0 (doi:10.5683/SP3/TFAV36)
-- WHO Child Growth Standards tables (WHO `anthro` package): GPL-3
